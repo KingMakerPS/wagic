@@ -96,6 +96,8 @@ generic/wither.txt
 ########################
 #Specific Cards
 ########################
+exaltedsourcekilled.txt
+unstable_mutation2.txt
 abyssal_hunter_POWERSTRIKE.txt
 abyssal_nocturnus.txt
 academy_rector.txt
@@ -305,7 +307,6 @@ evil_presence2.txt
 evil_presence3.txt
 evil_presence_i647.txt
 evil_presence_i647_2.txt
-#exaltedsourcekilled.txt
 explore.txt
 Faceless_Butcher.txt
 fading.txt
@@ -670,7 +671,6 @@ unearth1.txt
 unearth2.txt
 unearth3.txt
 unstable_mutation.txt
-#unstable_mutation2.txt
 unwilling_recruit.txt
 urzas_lands.txt
 urzas_lands2.txt
